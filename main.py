@@ -168,13 +168,14 @@
 
 print(type('hello hi there'))
 print(type("hi hello there 24!"))
+#USER AND PASSWORD CHEKKER
 
-username = 'supercoder'
-password = 'supersecret'
-long_string = '''
-WOW
-0 0
-'''
+# username = 'supercoder'
+# password = 'supersecret'
+# long_string = '''
+# WOW
+# 0 0
+# '''
 
 
 print(long_string)
