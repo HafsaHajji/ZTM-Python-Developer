@@ -177,6 +177,4 @@
 # WOW
 # 0 0
 # '''
-
-
-print(long_string)
+# print(long_string)
