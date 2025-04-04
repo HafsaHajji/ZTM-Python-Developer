@@ -62,10 +62,10 @@
 #NOTE
 
 #() :Brackets
-* * : power of
-* / : multipilaction and devision
-+ - : addition and subtraction
-sing bracket and power of
+# * * : power of
+# * / : multipilaction and devision
+# + - : addition and subtraction
+# sing bracket and power of
 
 # print((20 - 3) + 2 ** 2)
 
@@ -153,3 +153,14 @@ sing bracket and power of
 # some_value *= 2
 # some_value /= 2
 # print(some_value)
+
+#STRENGTHS =STR  , stands of strengh
+int
+float
+complex
+str
+bool
+list
+tuple
+set
+dict
