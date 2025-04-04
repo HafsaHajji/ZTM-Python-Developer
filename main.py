@@ -164,6 +164,17 @@
 # tuple
 # set
 # dict
+#EXAMPLE STR
 
 print(type('hello hi there'))
 print(type("hi hello there 24!"))
+
+username = 'supercoder'
+password = 'supersecret'
+long_string = '''
+WOW
+0 0
+'''
+
+
+print(long_string)
