@@ -62,10 +62,10 @@
 #NOTE
 
 #() :Brackets
-# * * : power of
-# * / : multipilaction and devision
-# + - : addition and subtraction
-# sing bracket and power of
+* * : power of
+* / : multipilaction and devision
++ - : addition and subtraction
+sing bracket and power of
 
 # print((20 - 3) + 2 ** 2)
 
