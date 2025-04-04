@@ -155,12 +155,12 @@
 # print(some_value)
 
 #STRENGTHS =STR  , stands of strengh
-int
-float
-complex
-str
-bool
-list
-tuple
-set
-dict
+# int
+# float
+# complex
+# str
+# bool
+# list
+# tuple
+# set
+# dict
