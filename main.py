@@ -165,4 +165,5 @@
 # set
 # dict
 
+print(type('hello hi there'))
 print(type("hi hello there 24!"))
