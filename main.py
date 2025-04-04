@@ -181,7 +181,7 @@
 
 #NAME TEST
 
-first_name = ' hafsa '
+# first_name = ' hafsa '
 last_name  = 'Hajji'
 full_name = first_name + last_name
 
