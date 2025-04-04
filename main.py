@@ -53,7 +53,7 @@ print(round(3.9)) #4
 
 #  2 : Abs : return absolute value  of the argument
 
-# print(abs(-20))  #20
+print(abs(-20))  #20
 
 #OPERATOR PRECEDENCE
 
