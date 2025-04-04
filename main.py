@@ -166,8 +166,9 @@
 # dict
 #EXAMPLE STR
 
-print(type('hello hi there'))
-print(type("hi hello there 24!"))
+# print(type('hello hi there'))
+# print(type("hi hello there 24!"))
+
 #USER AND PASSWORD CHEKKER
 
 # username = 'supercoder'
