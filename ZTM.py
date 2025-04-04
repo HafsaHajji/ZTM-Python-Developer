@@ -5,4 +5,4 @@
 #THIS IS FIRST PROGRAM
 
 name = input('what is your name?')
-print('helloooooooo ' + name)
+print('helloooooo ' + name)
