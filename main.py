@@ -183,6 +183,6 @@
 
 # first_name = ' hafsa '
 # last_name  = 'Hajji'
-full_name = first_name + last_name
+# full_name = first_name + last_name
 
 print(full_name)
