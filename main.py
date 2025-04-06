@@ -190,7 +190,7 @@
 #STRING CONCATENATION
 print('hello' + 'Hafsa')
 
-#TYPE CONVERSION
+#TYPE CONVERSION = converting datatypes
 print(str(100))
 
 #how to check type in datatype in str
@@ -200,6 +200,7 @@ a=str(100)
 b = int(a)
 c = type(b)
 print(c)
+
 
 
 
