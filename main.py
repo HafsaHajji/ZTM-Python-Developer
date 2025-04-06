@@ -217,6 +217,10 @@ print('hi ' + name + ' .you are ' + str(age) + 'years old')
 #another way
 
 print(f'hi {name} .you are {age} years old')
+#USEBALE format
+
+print('hi {}. you are {} years old'.format('hafsa', '55'))
+
 
 
 
