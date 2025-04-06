@@ -193,6 +193,11 @@ print('hello' + 'Hafsa')
 #TYPE CONVERSION
 print(str(100))
 
+#how to check type in datatype
+print(type(str(100)))
+
+
+
 
 
 
