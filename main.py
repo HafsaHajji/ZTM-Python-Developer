@@ -201,6 +201,11 @@ b = int(a)
 c = type(b)
 print(c)
 
+#ESCAPE SEQUENCE
+
+weather = "It\'s \"kind of\" sunny"
+print(weather)
+
 
 
 
