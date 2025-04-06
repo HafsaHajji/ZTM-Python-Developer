@@ -190,6 +190,9 @@
 #STRING CONCATENATION
 print('hello' + 'Hafsa')
 
+#TYPE CONVERSION
+print(str(100))
+
 
 
 
