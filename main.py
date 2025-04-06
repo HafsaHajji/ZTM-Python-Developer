@@ -214,7 +214,9 @@ age = 55
 
 print('hi ' + name + ' .you are ' + str(age) + 'years old')
 
+#another way
 
+print(f'hi {name} .you are {age} years old')
 
 
 
