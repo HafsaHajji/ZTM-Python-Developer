@@ -188,7 +188,7 @@
 # print(full_name)
 
 #STRING CONCATENATION
-print('hello' + 'Hafsa')
+print('hello ' + 'Hafsa')
 
 #TYPE CONVERSION = converting datatypes
 print(str(100))
@@ -206,6 +206,15 @@ print(c)
 weather = "It\'s \"kind of\" sunny"
 weather = "\t It\'s \"kind of\" sunny \n hopr you have a goof day!"
 print(weather)
+
+#FORMATEDSTRING
+
+name = 'hafsa'
+age = 55
+
+print('hi ' + name + ' .you are ' + str(age) + 'years old')
+
+
 
 
 
