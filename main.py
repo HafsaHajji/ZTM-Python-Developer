@@ -252,10 +252,10 @@
 # selfish = '01234567'
 # print(selfish[1:])
 # another valid number
-print(selfish[:5])
+# print(selfish[:5])
 
 # using two semicolon
-print(selfish[::1])
+# print(selfish[::1])
 
 print(selfish[:-0])
 
