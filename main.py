@@ -250,7 +250,7 @@
 
 #WHAT HAPPENT WHEN IT USE VALID NUMBER
 # selfish = '01234567'
-print(selfish[1:])
+# print(selfish[1:])
 # another valid number
 print(selfish[:5])
 
