@@ -194,7 +194,7 @@
 # print(str(100))
 
 #how to check type in datatype in str
-print(type(str(100)))
+# print(type(str(100)))
 #another check datatype in int
 a=str(100)
 b = int(a)
