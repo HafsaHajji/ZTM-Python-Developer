@@ -222,7 +222,7 @@ print(f'hi {name} .you are {age} years old')
 print('hi {}. you are {} years old'.format('hafsa', '55'))
 
 #used by letter
-print('hi {}. you are {} years old'.format(name, age))
+# print('hi {}. you are {} years old'.format(name, age))
 
 #used by number
 # print('hi {1}. you are {0} years old'.format(name, age))
