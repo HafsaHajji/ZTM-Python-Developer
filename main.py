@@ -257,7 +257,7 @@
 # using two semicolon
 # print(selfish[::1])
 
-print(selfish[:-0])
+# print(selfish[:-0])
 
 
 
