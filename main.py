@@ -203,9 +203,9 @@
 
 #ESCAPE SEQUENCE
 
-weather = "It\'s \"kind of\" sunny"
-weather = "\t It\'s \"kind of\" sunny \n hopr you have a goof day!"
-print(weather)
+# weather = "It\'s \"kind of\" sunny"
+# weather = "\t It\'s \"kind of\" sunny \n hopr you have a goof day!"
+# print(weather)
 
 #FORMATEDSTRING
 
