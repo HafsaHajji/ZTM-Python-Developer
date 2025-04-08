@@ -248,6 +248,13 @@
 # selfish = '01234567'
 # print(selfish[0:8:2])
 
+#WHAT HAPPENT WHEN IT USE VALID NUMBER
+selfish = '01234567'
+print(selfish[1:])
+
+
+
+
 
 
 
