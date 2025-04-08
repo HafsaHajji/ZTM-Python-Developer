@@ -240,7 +240,7 @@
 # print(selfish[0])
 
 #another way using start and stope
-selfish ='01234567'
+# selfish ='01234567'
 print(selfish[0:2])
 
 
