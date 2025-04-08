@@ -188,7 +188,7 @@
 # print(full_name)
 
 #STRING CONCATENATION
-print('hello ' + 'Hafsa')
+# print('hello ' + 'Hafsa')
 
 #TYPE CONVERSION = converting datatypes
 print(str(100))
