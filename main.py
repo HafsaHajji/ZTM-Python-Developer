@@ -209,10 +209,10 @@ print(weather)
 
 #FORMATEDSTRING
 
-name = 'hafsa'
-age = 55
+# name = 'hafsa'
+# age = 55
 
-print('hi ' + name + ' .you are ' + str(age) + 'years old')
+# print('hi ' + name + ' .you are ' + str(age) + 'years old')
 
 #another way
 
