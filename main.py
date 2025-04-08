@@ -225,7 +225,7 @@ print('hi {}. you are {} years old'.format('hafsa', '55'))
 print('hi {}. you are {} years old'.format(name, age))
 
 #used by number
-print('hi {1}. you are {0} years old'.format(name, age))
+# print('hi {1}. you are {0} years old'.format(name, age))
 
 #used by dot format
 # print('hi {new_name}. you are {age} years old'.format(new_name= 'hamda', age= 5))
