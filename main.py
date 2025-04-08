@@ -244,6 +244,9 @@
 # print(selfish[0:2])
 
 
+# add another way using start and stop and stepover strind indexes
+selfish = '01234567'
+print(selfish[0:8:2])
 
 
 
