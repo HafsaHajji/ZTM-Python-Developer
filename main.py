@@ -234,10 +234,16 @@
 # print(f'hi {name}. you are {age} years old')
 
 #STRING INDEXES
-selfish ='me me me'
+# selfish ='me me me'
           #01234567
 # [START:STOP:STEPOVER]
-print(selfish[0])
+# print(selfish[0])
+
+#another way using start and stope
+selfish ='01234567'
+print(selfish[0:2])
+
+
 
 
 
