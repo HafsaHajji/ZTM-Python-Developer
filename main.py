@@ -233,6 +233,11 @@
 #used by short format
 # print(f'hi {name}. you are {age} years old')
 
+#STRING INDEXES
+selfish ='me me me'
+          #01234567
+# [START:STOP:STEPOVER]
+print(selfish[0])
 
 
 
