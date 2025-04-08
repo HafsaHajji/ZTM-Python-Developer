@@ -231,7 +231,10 @@ print('hi {1}. you are {0} years old'.format(name, age))
 print('hi {new_name}. you are {age} years old'.format(new_name= 'hamda', age= 5))
 
 #used by short format
-print(f'hi {name}. you are {age} years old')
+# print(f'hi {name}. you are {age} years old')
+
+
+
 
 
 
