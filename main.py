@@ -245,8 +245,8 @@
 
 
 # add another way using start and stop and stepover strind indexes
-selfish = '01234567'
-print(selfish[0:8:2])
+# selfish = '01234567'
+# print(selfish[0:8:2])
 
 
 
